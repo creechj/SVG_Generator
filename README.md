@@ -20,7 +20,12 @@ Video demo of Application:
 
 
 ## Credits
+ 
+ object inheritance reference:
+ https://www.w3schools.com/js/js_class_inheritance.asp
 
+ square shape svg:
+ https://melvingeorge.me/blog/create-square-svg-html
 
 
 ## License
