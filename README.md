@@ -13,7 +13,10 @@ An svg file is generated containing the logo once all prompts have been responde
 GitHub repository for the site can be found here: https://github.com/creechj/SVG_Generator
 
 Video demo of Application:
- 
+https://drive.google.com/file/d/1ODKAkxNd1a064gIA5I3Af-cBaiDRa2qh/view?usp=sharing  
+
+
+
 
 
 ![Screenshot of Application](/assets/SVG_Generator_Screenshot.png)
