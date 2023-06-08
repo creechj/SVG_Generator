@@ -27,6 +27,9 @@ Video demo of Application:
  square shape svg:
  https://melvingeorge.me/blog/create-square-svg-html
 
+ inquirer maxlength input limiter:
+ https://www.npmjs.com/package/inquirer-maxlength-input-prompt
+
 
 ## License
 
